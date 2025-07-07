@@ -37,6 +37,12 @@ transform-style: preserve-3d;
 transition: transform 300ms ease-in-out;
 }
 
+.cartao__conteudo p {
+margin-top: 1rem;
+padding: 2rem;
+margin-top: 4rem;
+}
+
 .cartao__conteudo__pergunta p{
 color: var(--text-color);
 font-weight: 500;
@@ -60,6 +66,8 @@ width: 100%;
 .cartao__conteudo__resposta {
 transform: rotateY(180deg);
 }
+
+
 
 footer {
 background-color: rgb(15, 237, 48);

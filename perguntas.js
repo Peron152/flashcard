@@ -1,22 +1,22 @@
 criaCartao(
-    'Biologia',
-    'Qual é o nome do processo pelo qual as plantas produzem seu próprio alimento, usando luz solar, água e gás carbônico?',
-    'Resposta: Fotossíntese'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual é a parte de uma célula vegetal que lhe dá sua estrutura rígida e formato? ',
-    'Resposta: Parede celular'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual animal é conhecido por sua metamorfose, passando pelas fases de ovo, larva (lagarta), pupa e adulto?',
-    'Resposta: Borboleta'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
     criaCartao(
-    'Biologia',
-    'Qual é o nome do líquido vermelho que transporta oxigênio e nutrientes pelo nosso corpo?',
-    'Resposta: Sangue'
+    'Lingua inglesa',
+    'Como se diz OI em inglês?',
+    'Oi em ingles é HI (RAI)'
 )
